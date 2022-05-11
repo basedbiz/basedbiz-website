@@ -33,3 +33,8 @@ local
 
 # vercel
 .vercel
+
+/package-lock.json
+
+/basedbiz-key
+/basedbiz-key.pub
