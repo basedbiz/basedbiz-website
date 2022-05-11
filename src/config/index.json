@@ -1,0 +1,153 @@
+{
+  "company": {
+    "name": "React landing page 2021",
+    "logo": "/assets/images/logo.jpg"
+  },
+  "navigation": [
+    {
+      "name": "Token",
+      "href": "product"
+    },
+    {
+      "name": "Features",
+      "href": "features"
+    },
+
+    {
+      "name": "Pricing",
+      "href": "pricing"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Based Biz",
+    "subtitle": "",
+    "description": "A new deflationary token for based anons going to the moon.",
+    "img": "/assets/images/happyBen.jpg",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "basedbiztoken@gmail.com?subject"
+    }
+  },
+  "product": {
+    "title": "Based Biz Token",
+    "items": [
+      {
+        "title": "A Community Based Token",
+        "description": "Based Biz is renounced and in the hands of the community.",
+        "img": "/assets/images/product2.webp"
+      },
+      {
+        "title": "Rug? Free!",
+        "description": "Based Biz liquidity is locked and cannot be pulled by anyone.",
+        "img": "/assets/images/product1.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Latest & greatest ",
+    "subtitle": "All the best token technologies out there!",
+    "description": "Our token is unruggable and designed to moon.",
+    "items": [
+      {
+        "name": "Liquidity Tax",
+        "description": "4% liquidity is provided by transfers",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Token Burn",
+        "description": "5% token burn tax",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "Unruggable",
+        "description": "Liquidity is locked, https://dxsale.app/app/v3_3/dxlockview?id=0&add=0xC782D140B21C9ec26C8F4BBf5ed8D641069e3914&type=lplock&chain=BSC",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Community",
+        "description": "Based biz has a strong community of individuals who belive",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Faq",
+    "items": [
+      {
+        "name": "Based Biz Token Faq",
+        "price": "$0",
+        "priceDetails": "for one user",
+        "features": [
+          "CA - 0x86c61ccc1225086e7cf28ea150151f4641872f70",
+          "Liquidity Lock - https://dxsale.app/app/v3_3/dxlockview?id=0&add=0xC782D140B21C9ec26C8F4BBf5ed8D641069e3914&type=lplock&chain=BSC",
+          "Tax - 10%",
+          "Email - basedbiztoken@gmail.com"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$15",
+        "priceDetails": "per user",
+
+        "features": [
+          "5 users",
+          "Priority Support",
+          "10 GB of storage",
+          "Phone and Email support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "$29",
+        "priceDetails": "per user",
+        "features": [
+          "50 users",
+          "24/7 Support",
+          "100 GB of storage",
+          "Phone and Email support"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/basedbiz",
+      "twitter": "https://twitter.com/basedbiztoken",
+      "linkedin": ""
+    }
+  }
+}
