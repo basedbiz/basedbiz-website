@@ -44,14 +44,17 @@ const Pricing = () => {
               </ul>
             </div>
           </div>
-            <div className={`flex-1 bg-background rounded-t rounded-b-none overflow-hidden shadow`}>
-            </div>
-            <div className={`flex-none mt-auto bg-background rounded-b rounded-t-none overflow-hidden shadow p-6`}>
-              </div>
-            </div>
-          <div className={`flex flex-col w-5/6 lg:w-1/4 mx-auto lg:mx-0 rounded-none lg:rounded-l-lg bg-primary mt-4`}>
-          </div>
+          <div
+            className={`flex-1 bg-background rounded-t rounded-b-none overflow-hidden shadow`}
+          ></div>
+          <div
+            className={`flex-none mt-auto bg-background rounded-b rounded-t-none overflow-hidden shadow p-6`}
+          ></div>
         </div>
+        <div
+          className={`flex flex-col w-5/6 lg:w-1/4 mx-auto lg:mx-0 rounded-none lg:rounded-l-lg bg-primary mt-4`}
+        ></div>
+      </div>
     </section>
   );
 };
