@@ -32,12 +32,12 @@
     "description": "A new deflationary token for based anons going to the moon.",
     "img": "/assets/images/happyBen.jpg",
     "primaryAction": {
-      "text": "Get started",
-      "href": "#"
+      "text": "Buy Token",
+      "href": "https://pancakeswap.finance/swap?outputCurrency=0x86c61ccc1225086e7cf28ea150151f4641872f70"
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "basedbiztoken@gmail.com?subject"
+      "href": "https://gmail.com/basedbiztoken@gmail.com?subject"
     }
   },
   "product": {
